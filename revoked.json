@@ -1,4 +1,6 @@
 {
-  "revoked_hwids": [],
-  "updated_at": 1792863250
+  "revoked_hwids": [
+    "8e8ad440-df31-d959-81d3-e20c9024ede4"
+  ],
+  "updated_at": 1792922170
 }
