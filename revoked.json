@@ -1,7 +1,8 @@
 {
   "revoked_hwids": [],
-  "updated_at": 1792923255,
+  "updated_at": 1792930490,
   "revoked_keys": [
-    "3AEE-34A5-E8DF-1298-C5D9-N05C2-D00006270"
+    "3AEE-34A5-E8DF-1298-C5D9-N05C2-D00006270",
+    "24A4-C844-35ED-F8D6-8369-NA85D-D00006270"
   ]
 }
